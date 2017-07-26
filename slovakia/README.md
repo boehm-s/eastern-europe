@@ -31,10 +31,28 @@ I also ordered a handmade limonade, that's not awesome at all, neither it is exc
 ### The visit
 
 Visiting Bratislava can easly be done in one day. There are 5 very interesting places in Bratislava : The old town, the castle, St Martin's cathedral, Michael's gate and the blue church.
+![The castle](./img/castle.jpg)
+![The garden](./img/castle_garden.jpg)
 The castle itself is not very nice, but being there offers a large  view on the city. But don't look too far, because while the city center and the cathedral are really nice, if you look over it, the only thing you'll see is an endless set of concrete buildings - remnants of the USSR era.
-The cathedral is impressive by its height and its beauty (maybe as every cathedral), and the inside is wonderful, especially the stained glasses. But more pleasant than the cathedral itself : the small and quaint streets that leads to it.
+![The garden 2](./img/castle_garden2.jpg)
+![Concrete buildings](./img/concrete_buildings.jpg)
+
+The cathedral is impressive for its height but not its beauty : the outside part is not original at all and doesn't have any elaborations. Yet, the inside is wonderful, especially the stained glasses.
+![The cathedral](./img/cathedral2.jpg)
+![The cathedral](./img/cathedral.jpg)
+![stained glasses inside the cathedral](./img/stained_glasses.jpg)
+
+But more pleasant than the cathedral itself : the small and quaint streets that leads to it.
+![Quaint street](./img/quaint_street.jpg)
+
 The old town is full of nice and old buildings, you could spend a day taking pictures of them. Walking in the old town feels like walking in Paris (without the cars) and taking pictures of every Hausmannian buildings.
+![Old town](./img/city_center.jpg)
+![Old town](./img/city_center2.jpg)
+![Old town](./img/city_center3.jpg)
+
 Without any doubt, the part of the visit that I prefered was seeing the blue church. It's one of the most beautiful church I've ever seen if not the most beautiful.
+![The blue church](./img/blue_church.jpg)
+
 
 
 ## Trnava
