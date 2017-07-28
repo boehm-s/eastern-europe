@@ -56,3 +56,22 @@ Without any doubt, the part of the visit that I prefered was seeing the blue chu
 
 
 ## Trnava
+
+Trnava is a very nice city and is described as the "little Rome" in every touristic leaflet. So, when you read something like that, you just take the first train to this city. Unfortunatly, the only common points between Rome and Trnava are the number of churchs by square kilometer and the very nice pavements (made of cobblestones).
+
+Still, Trnava is a beautiful city with really nice churches and little streets, but the comparison with Rome forces us to expect something wonderful.
+
+## Oravsky Castle / Ruzemberok
+
+### Housing
+
+I didn't find any Airbnb at Oravsky Podzamok (the city where the castle is), so I've looked around and found one at Ruzemberok, a middle sized town half an hour away by bus.
+The people who rented me the apartment were planning to go to Paris in August, the man has already spent some time in Paris before so we spoked French as well as English.
+
+### The visit
+
+Oravsky castle is the most impressive castle in Slovakia. It's giant and nice, I don't have much to say about it, so I'll just let you see the pictures.
+
+
+
+Of course the castle has an important history, but the guide who lead us throuth the castle only spoke Slovakian, so we had to read all the panels to understand what happened in this huge castle.
